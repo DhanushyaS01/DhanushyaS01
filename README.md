@@ -1,6 +1,7 @@
 # Hi there! 👋 I'm Dhanushya S
 
-## A passionate frontend developer from India
+## Welcome to my GitHub profile!
+I'm a B.E. student majoring in Computer Science and Engineering. I'm passionate about learning new things and exploring emerging technologies with a curiosity-driven mindset. I actively seek opportunities to work on projects, participate in hackathons, and build connections within the community.
 
 🔭 I’m currently working on *Web Development*
 
