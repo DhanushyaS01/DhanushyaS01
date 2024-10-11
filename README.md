@@ -5,7 +5,7 @@ I'm a B.E. student majoring in Computer Science and Engineering. I'm passionate 
 
 🔭 I’m currently working on *Web Development*
 
-🌱 I’m currently learning html5,css3,*Java, JavaScript, CSS*
+🌱 I’m currently learning *React.js, Typescript, bootstrap ,Java, JavaScript, CSS*
 
 💬 Ask me about *Tech-related topics*
 
@@ -30,8 +30,9 @@ I'm a B.E. student majoring in Computer Science and Engineering. I'm passionate 
 ## 🌐 Connect with me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/dhanushya47/)
-[![Medium](https://upload.wikimedia.org/wikipedia/commons/0/0d/Medium_logo.svg)](https://medium.com/@sdhanushyasaravanan)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://x.com/Dhanushya__S)
 
+*Feel free to connect and collaborate with me!*
 ---
 
 ## 🛠 Languages and Tools:
