@@ -22,6 +22,15 @@ I'm a B.E. student majoring in Computer Science and Engineering. I'm passionate 
 
 ---
 
+## Portfolio 
+*[portfolio Design](https://www.figma.com/design/PysV2ltR1rwiBDgRhxrMax/Untitled?node-id=1-11&t=SUeXXnmAEF7wVGOk-1)*
+
+
+*Check out my portfolio design for more projects and information about my work*
+
+
+
+
 ## 📚 Latest Blog Post
 - [Website and Web application](https://tinyurl.com/5y58vz63)
 
